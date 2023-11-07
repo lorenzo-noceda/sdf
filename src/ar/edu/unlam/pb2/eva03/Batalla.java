@@ -11,7 +11,7 @@ import ar.edu.unlam.pb2.eva03.interfaces.Volador;
 
 public class Batalla {
 	private Double latitud;
-	private Double lonssgitud;
+	private Double losdsfnssgitud;
 	private TipoDeBatalla tipo;
 	Set<Vehiculo> vehiculosEnLaBatalla;
 	
